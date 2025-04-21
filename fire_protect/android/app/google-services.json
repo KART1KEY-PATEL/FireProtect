@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "128357502670",
+    "firebase_url": "https://firedetect-52cc8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "firedetect-52cc8",
+    "storage_bucket": "firedetect-52cc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128357502670:android:5caeaa5d2c91366dd14a9f",
+        "android_client_info": {
+          "package_name": "com.example.fire_protect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl8pVRV9eUEsSvlShwwHaBCLfWGz1ZNFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
